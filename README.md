@@ -51,7 +51,7 @@ This project separates the calculation logic and user interface into several mod
 * `stream.py` : OOP object constructor for modeling the physical properties of mass streams (Temperature, Pressure, Flow Rate, Mole Fraction).
 * `db_handler.py` : Connection script bridging the simulation engine with the SQLite database.
 * `properties.db` : Local database storage.
-* `FLASH DRUM_2.ipynb` : Dedicated Jupyter Notebook for database administrator functions (adding new chemical components).
+* `EquilPy Notebook.ipynb` : Dedicated Jupyter Notebook for database administrator functions (adding new chemical components).
 
 ## 🛠️ Technologies Used
 * **Primary Language:** Python 3
